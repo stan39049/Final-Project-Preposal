@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+create an already existing game such as Pong with modifications or a rougue-like game.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+None
 
 ## Do you have any questions of your own?
 
-TODO
+No
